@@ -3,10 +3,10 @@
 bool condition = false;
 if (condition)
 {
-    Console.WriteLine("Hello, Michael Jordan!");
+    Console.WriteLine("Hello, Babe Ruth!");
 }
 else
 {
-    Console.WriteLine("Hello, Muhammad Ali!");
+    Console.WriteLine("Hello, Wayne Gretzky!");
 }
 
