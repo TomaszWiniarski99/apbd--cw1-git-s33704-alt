@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-bool condition = false;
+bool condition = true;
 if (condition)
 {
     Console.WriteLine("Hello, Babe Ruth!");
