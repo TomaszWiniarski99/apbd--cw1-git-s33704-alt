@@ -1,12 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-bool condition = true;
-if (condition)
+Double calculateAverage(int[] values)
 {
-    Console.WriteLine("Hello, Babe Ruth!");
+    int sum = 0;
+    for (int i = 0; i < values.Length; i++)
+    {
+        sum += values[i];
+    }
+    return sum / values.Length;
 }
-else
-{
-    Console.WriteLine("Hello, Wayne Gretzky!");
-}
-
