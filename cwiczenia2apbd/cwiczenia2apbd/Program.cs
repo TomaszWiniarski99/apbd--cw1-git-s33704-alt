@@ -1,5 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, Michael Jordan!");
-Console.WriteLine("Hello, Muhammad Ali!");
+bool condition = false;
+if (condition)
+{
+    Console.WriteLine("Hello, Michael Jordan!");
+}
+else
+{
+    Console.WriteLine("Hello, Muhammad Ali!");
+}
+
