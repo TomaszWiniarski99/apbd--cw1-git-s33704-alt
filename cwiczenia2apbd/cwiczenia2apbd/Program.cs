@@ -13,7 +13,7 @@ Double calculateAverage(int[] values)
 calculateAverage(new int[] {1, 3, 2});
 System.Console.WriteLine(calculateAverage(new int[] {1, 3, 2}));
 
-Double calculateMAx(int[] values)
+Double calculateMax(int[] values)
 {
     int max = values[0];
     for (int i = 0; i < values.Length; i++)
