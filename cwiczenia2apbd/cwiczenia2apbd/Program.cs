@@ -38,3 +38,5 @@ int CalculateMin(int[] values)
     }
     return min;
 }
+
+System.Console.WriteLine(CalculateMin(new int[] {1, 3, 2}));
