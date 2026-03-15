@@ -25,3 +25,9 @@ Double calculateMax(int[] values)
     }
     return max;
 }
+
+int CalculateMin(int[] values)
+{
+
+    return 0;
+}
